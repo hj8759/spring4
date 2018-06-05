@@ -1,2 +1,2 @@
 # spring4
-spring4+springmvc_mybatis
+spring4+springmvc+mybatis
